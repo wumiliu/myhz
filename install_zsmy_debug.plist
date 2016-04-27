@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.224.126:8018/Icon.png</string>
+					<string>http://update1.zsmy.99.com/zsmy/AppPackage/iOS/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.224.126:8018/Icon.png</string>
+					<string>http://update1.zsmy.99.com/zsmy/AppPackage/iOS/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
