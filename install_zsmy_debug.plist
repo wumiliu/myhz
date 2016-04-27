@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.9.100:9900/AppPackage/iOS/zsmy.ipa</string>
+					<string>http://update1.zsmy.99.com/zsmy/AppPackage/iOS/zsmy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
